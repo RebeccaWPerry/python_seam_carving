@@ -1,3 +1,5 @@
+# Python for Image Anaysis with Seam Carving as an Example
+
 @SHEHACKS Boston, January 2018
 
 ## Required Prework
