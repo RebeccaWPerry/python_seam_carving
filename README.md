@@ -44,16 +44,16 @@ The intended output is a minimal plot with a line connecting two points. If you 
 
 ### Resources
 
-[Seam Carving](https://en.wikipedia.org/wiki/Seam_carving){:target="_blank"}
+[Seam Carving](https://en.wikipedia.org/wiki/Seam_carving){:target="_blank"} Wikipedia
 
 [Seam carving for content-aware image resizing](https://inst.eecs.berkeley.edu/~cs194-26/fa16/hw/proj4-seamcarving/imret.pdf){:target="_blank"}, Shai Avidan, Arie Shamir, ACM SIGGRAPH 2007 papers Article No. 10.
 
 [Google](https://www.google.com/){:target="_blank"} How did people learn how to code before there was Google?
 
-[Stack Overflow](https://stackoverflow.com/){:target="_blank"} Many of your Google searches may land you here
+[Stack Overflow](https://stackoverflow.com/){:target="_blank"} Many of your Google searches may land you here.
 
-[Software Carpentry](https://software-carpentry.org/){:target="_blank"}
+[Software Carpentry](https://software-carpentry.org/){:target="_blank"} For more scientific Python and other workshops.
 
-[Scipy Lecture Notes](http://www.scipy-lectures.org/){:target="_blank"}
+[Scipy Lecture Notes](http://www.scipy-lectures.org/){:target="_blank"} More resources for learning scientific Python libraries.
 
 Please feel free to reach out to me at reperry@wayfair.com
