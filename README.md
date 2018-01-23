@@ -1,6 +1,6 @@
 # Python for Image Anaysis with Seam Carving as an Example
 
-@SHEHACKS Boston, January 2018
+@SheHacks Boston, January 2018
 
 ## Required Prework
 During this workshop, you will be writing Python code on your own laptop to analyze images. You will walk away from the workshop with code to use on images in the future and insight into interacting with images as data! To make this possible, I ask that you do some setup on your laptop before arriving. If you run into trouble installing the necessities, please come to the workshop early to get assistance
