@@ -2,6 +2,20 @@
 
 @SheHacks Boston, January 2018
 
+## @ the Workshop Instructions
+1. Go to this GitHub location: [GitHub Repo](https://github.com/RebeccaWPerry/python_seam_carving/){:target="_blank"} (https://github.com/RebeccaWPerry/python_seam_carving).
+
+2. Use the green button to download the materials for today's workshop.
+
+3. Put the downloaded materials somewhere reasonable (e.g. your desktop) and unzip the download.
+
+4. Open a terminal (linux/apple) or command prompt (windows) and type jupyter notebook followed by enter.
+```markdown
+jupyter notebook
+```
+5. This should start a web browser and bring you to a Jupyter Notebook homepage. You'll see the files on your computer. Navigate to your desktop and into the python_seam_carving_master directory. Click on the file ending in ".ipynb."
+
+
 ## Required Prework
 During this workshop, you will be writing Python code on your own laptop to analyze images. You will walk away from the workshop with code to use on images in the future and insight into interacting with images as data! To make this possible, I ask that you do some setup on your laptop before arriving. If you run into trouble installing the necessities, please come to the workshop early to get assistance
 
