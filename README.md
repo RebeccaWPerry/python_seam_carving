@@ -30,7 +30,6 @@ If you see a web browser open to a tab with Jupyter in the top left, then you ha
 import scipy
 import numpy as np
 import matplotlib.pyplot as plt
-import cv2
 ```
 If these packages are already installed, then the notebook will simply return a new input line. If you are missing any of these libraries, you will see a message like "ModuleNotFoundError: No module named 'matplotlib.pyplot'." If that is the case, you can try installing the missing packages individually (e.g. for Matplotlib: [https://matplotlib.org/users/installing.html](https://matplotlib.org/users/installing.html){:target="_blank"}) or go back to This is all new to me.
 
